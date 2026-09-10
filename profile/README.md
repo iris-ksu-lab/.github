@@ -28,8 +28,8 @@ can cost as much as $50,000. Our approach instead pairs a smartphone, a lens att
 
 | Name | Role |
 |---|---|
-| Dr. Mahmut Karakaya | Principal Investigator — Assistant Professor, Computer Science |
-| Dr. Ramazan Aygun | Co-Investigator — Associate Professor, Computer Science |
+| Dr. Mahmut Karakaya | Associate Professor of Computer Science |
+| Dr. Ramazan Aygun | Director, Center for Research Computing and Professor of Computer Science |
 
 
 ## Contact
